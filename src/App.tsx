@@ -142,11 +142,6 @@ export default function App() {
                 <p className="text-2xl font-bold text-indigo-600">2</p>
                 <p className="text-xs uppercase tracking-widest text-slate-400 font-semibold">Internships</p>
               </div>
-              <div className="w-px h-12 bg-slate-200" />
-              <div className="space-y-1">
-                <p className="text-2xl font-bold text-indigo-600">8.96</p>
-                <p className="text-xs uppercase tracking-widest text-slate-400 font-semibold">GPA</p>
-              </div>
             </div>
           </div>
           <div className="space-y-6">
